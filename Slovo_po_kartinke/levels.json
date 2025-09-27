@@ -1,0 +1,42 @@
+{
+    "1": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\овощи.png",
+        "correct_word": "овощи"
+    },
+    "2": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\мебель.png",
+        "correct_word": "мебель"
+    },
+    "3": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\спорт.png",
+        "correct_word": "спорт"
+    },
+    "4": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\лекарства.png",
+        "correct_word": "лекарства"
+    },
+    "5": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\семья.png",
+        "correct_word": "семья"
+    },
+    "6": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\купюра.png",
+        "correct_word": "купюра"
+    },
+    "7": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\идея.png",
+        "correct_word": "идея"
+    },
+    "8": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\отдых.png",
+        "correct_word": "отдых"
+    },
+    "9": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\холод.png",
+        "correct_word": "холод"
+    },
+    "10": {
+        "image_path": "C:\\Users\\egork\\Desktop\\Слово по картинке\\images\\ливень.png",
+        "correct_word": "ливень"
+    }
+}
